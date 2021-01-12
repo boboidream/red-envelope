@@ -148,6 +148,7 @@ div.hearthot {
 
 #resultPanel{
 	background:url(../img/endpage.jpg) center top no-repeat;
+	background-size: cover;
 }
 
 #resultPanel,#resultPanel .weixin-share {
